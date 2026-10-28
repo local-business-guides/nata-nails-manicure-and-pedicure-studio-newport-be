@@ -12,8 +12,8 @@
 - Nail salon
 
 ## Guides
-- [Planning a nail salon Newport Beach visit](https://local-business-guides.github.io/nata-nails-manicure-and-pedicure-studio-newport-be/nail-salon-newport-beach/): Choose a private nail salon Newport Beach appointment for focused nail and foot care in Newport Beach.
 - [How to plan a nail salon in newport beach visit](https://local-business-guides.github.io/nata-nails-manicure-and-pedicure-studio-newport-be/nail-salon-in-newport-beach/): Find a private nail salon in newport beach for one-on-one care in Newport Beach.
+- [Planning a nail salon Newport Beach visit](https://local-business-guides.github.io/nata-nails-manicure-and-pedicure-studio-newport-be/nail-salon-newport-beach/): Choose a private nail salon Newport Beach appointment for focused nail and foot care in Newport Beach.
 - [best nail salon Newport Beach](https://local-business-guides.github.io/nata-nails-manicure-and-pedicure-studio-newport-be/best-nail-salon-newport-beach/): Find the best nail salon Newport Beach for private appointments and thoughtful nail care in Newport Beach.
 - [best nail salon in newport beach](https://local-business-guides.github.io/nata-nails-manicure-and-pedicure-studio-newport-be/best-nail-salon-in-newport-beach/): Choose the best nail salon in newport beach for private pedicure options and attentive care in Newport Beach.
 - [Find a nail salon near me in Newport Beach](https://local-business-guides.github.io/nata-nails-manicure-and-pedicure-studio-newport-be/nail-salon-near-me/): Find a nail salon near me in Newport Beach for private manicure and pedicure appointments tailored to your needs.
@@ -23,6 +23,9 @@
 - [Russian Pedicure Newport Beach: A Customer’s Guide](https://local-business-guides.github.io/nata-nails-manicure-and-pedicure-studio-newport-be/russian-pedicure-newport-beach/): Russian pedicure Newport Beach appointments for careful foot care in a private Newport Beach studio.
 - [Russian Manicure Newport Beach: What to Know Before Booking](https://local-business-guides.github.io/nata-nails-manicure-and-pedicure-studio-newport-be/russian-manicure-newport-beach/): Russian manicure Newport Beach appointments for precise gel nail prep in a private local studio.
 
+## Newsroom
+- [Nata Nails Shares Newport Beach Nail Salon Guide in Multiple Formats](https://local-business-guides.github.io/nata-nails-manicure-and-pedicure-studio-newport-be/news/2026-10-28-nata-nails-shares-newport-beach-nail-salon-guide-i/): Nata Nails has released a guide for people researching nail salon services in Newport Beach, with related video, podcast and audio versions. (2026-10-28)
+
 ## Pages
 - [Nail Salon in Newport Beach, California](https://local-business-guides.github.io/nata-nails-manicure-and-pedicure-studio-newport-be/): Book focused, one-on-one nail care at our Newport Beach studio, with individually sterilized instruments and time set aside just for you. Call +1949-805-5335.
 - [About Nata Nails in Newport Beach](https://local-business-guides.github.io/nata-nails-manicure-and-pedicure-studio-newport-be/about/): About Nata Nails Manicure & Pedicure Studio, Newport Beach.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/nata-nails-manicure-and-pedicure-studio-newport-be/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/nata-nails-manicure-and-pedicure-studio-newport-be/news/rss.xml)
 - [Main resource site](https://nata-nails-newport-beach-studio.localwebsites.chatgpt.site)
