@@ -12,16 +12,16 @@
 - Nail salon
 
 ## Guides
-- [Choose an Affordable Nail Salon Newport Beach for Your Needs](https://local-business-guides.github.io/nata-nails-manicure-and-pedicure-studio-newport-be/affordable-nail-salon-newport-beach/): Find an affordable nail salon Newport Beach with private appointments and services suited to your nail care goals.
-- [Planning a nail salon Newport Beach visit](https://local-business-guides.github.io/nata-nails-manicure-and-pedicure-studio-newport-be/nail-salon-newport-beach/): Choose a private nail salon Newport Beach appointment for focused nail and foot care in Newport Beach.
 - [How to plan a nail salon in newport beach visit](https://local-business-guides.github.io/nata-nails-manicure-and-pedicure-studio-newport-be/nail-salon-in-newport-beach/): Find a private nail salon in newport beach for one-on-one care in Newport Beach.
 - [best nail salon Newport Beach](https://local-business-guides.github.io/nata-nails-manicure-and-pedicure-studio-newport-be/best-nail-salon-newport-beach/): Find the best nail salon Newport Beach for private appointments and thoughtful nail care in Newport Beach.
 - [best nail salon in newport beach](https://local-business-guides.github.io/nata-nails-manicure-and-pedicure-studio-newport-be/best-nail-salon-in-newport-beach/): Choose the best nail salon in newport beach for private pedicure options and attentive care in Newport Beach.
 - [Find a nail salon near me in Newport Beach](https://local-business-guides.github.io/nata-nails-manicure-and-pedicure-studio-newport-be/nail-salon-near-me/): Find a nail salon near me in Newport Beach for private manicure and pedicure appointments tailored to your needs.
 - [Choose a local nail salon Newport Beach customers can book](https://local-business-guides.github.io/nata-nails-manicure-and-pedicure-studio-newport-be/local-nail-salon-newport-beach/): Choose a local nail salon Newport Beach residents can book for private nail and foot care in a calm studio setting.
 - [Find a Top Rated Nail Salon Newport Beach Customers Can Trust](https://local-business-guides.github.io/nata-nails-manicure-and-pedicure-studio-newport-be/top-rated-nail-salon-newport-beach/): Choose a top rated nail salon Newport Beach for private appointments and attentive nail care in Newport Beach.
+- [Choose an Affordable Nail Salon Newport Beach for Your Needs](https://local-business-guides.github.io/nata-nails-manicure-and-pedicure-studio-newport-be/affordable-nail-salon-newport-beach/): Find an affordable nail salon Newport Beach with private appointments and services suited to your nail care goals.
 - [Russian Pedicure Newport Beach: A Customer’s Guide](https://local-business-guides.github.io/nata-nails-manicure-and-pedicure-studio-newport-be/russian-pedicure-newport-beach/): Russian pedicure Newport Beach appointments for careful foot care in a private Newport Beach studio.
 - [Russian Manicure Newport Beach: What to Know Before Booking](https://local-business-guides.github.io/nata-nails-manicure-and-pedicure-studio-newport-be/russian-manicure-newport-beach/): Russian manicure Newport Beach appointments for precise gel nail prep in a private local studio.
+- [Planning a nail salon Newport Beach visit](https://local-business-guides.github.io/nata-nails-manicure-and-pedicure-studio-newport-be/nail-salon-newport-beach/): Choose a private nail salon Newport Beach appointment for focused nail and foot care in Newport Beach.
 
 ## Newsroom
 - [Nata Nails Shares Guide to Affordable Nail Salon Options in Newport Beach](https://local-business-guides.github.io/nata-nails-manicure-and-pedicure-studio-newport-be/news/2026-11-17-nata-nails-shares-guide-to-affordable-nail-salon/): Nata Nails has released a guide about affordable nail salon options in Newport Beach, with a related YouTube video, podcast episode and SoundCloud audio. (2026-11-17)
@@ -40,4 +40,4 @@
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/nata-nails-manicure-and-pedicure-studio-newport-be/sitemap.xml)
 - [News RSS feed](https://local-business-guides.github.io/nata-nails-manicure-and-pedicure-studio-newport-be/news/rss.xml)
-- [Main resource site](https://nata-nails-newport-beach-studio.localwebsites.chatgpt.site)
+- [Main resource site](https://nata-nails-newport-beach-studio.localwebsites.chatgpt.site/salon-nail-newport-beach)
